@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I’m Chris 👋
 
-<!--
-**ChrisHansenTech/ChrisHansenTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech lead, developer, and maker based in West Fargo, ND. I specialize in point of sale systems and smart home automation, blending professional software engineering with hobbyist curiosity.
 
-Here are some ideas to get you started:
+### 🔧 What I’m Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏡 Home automation projects using **Home Assistant**, ESP32, and custom integrations
+
+### 📝 Blog & Content
+
+I write technical blog posts, covering:
+- Home automation
+- Hardware integrations
+- Leadership in software teams
+- Engineering workflows and tooling
+
+🖋️ [Check out my blog](https://chrishansen.tech)  
+
+### ⚡ Fun Facts
+
+- I work from home with my wife, two daughters, and three dogs 🐾
+- I love optimizing systems—codebases, workflows, or entire homes
+
+---
+
+> _"Discipline equals freedom."_ – Jocko Willink  
+> I bring stoic focus to both my code and my home life.
